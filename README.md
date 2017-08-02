@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Olivia Nahas 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We built an application, "Seminole Movie Connection", with jQuery and and Ajax methods. We were able to retrieve data from TMDB API. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://oan15.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Used Ajax to interact with server-side data.
+2. Ajax can be used to build fast web applications.
+3. We can use JSON to update a webpage. 
